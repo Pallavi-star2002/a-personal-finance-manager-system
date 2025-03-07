@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\views\\transaction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\models\\financecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\models\\financecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|c:\\users\\pallavi\\source\\repos\\projectfinanceportal\\projectfinanceportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C58F91B-3EDA-4116-8659-3FD549AB4E65}|ProjectFinancePortal\\ProjectFinancePortal.csproj|solutionrelative:projectfinanceportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "ProjectFinancePortal\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:17:24.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectFinancePortal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAiwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T07:58:10.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "ProjectFinancePortal\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T07:19:15.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Views\\Transaction\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Create.cshtml",
+              "RelativeToolTip": "ProjectFinancePortal\\Views\\Transaction\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:23:35.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Models\\Transaction.cs",
+              "RelativeToolTip": "ProjectFinancePortal\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:10:00.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Views\\Transaction\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Edit.cshtml",
+              "RelativeToolTip": "ProjectFinancePortal\\Views\\Transaction\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:25:19.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Views\\Transaction\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Transaction\\Delete.cshtml",
+              "RelativeToolTip": "ProjectFinancePortal\\Views\\Transaction\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:24:21.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Program.cs",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Program.cs",
+              "RelativeToolTip": "ProjectFinancePortal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:36:44.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinanceContext.cs",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Models\\FinanceContext.cs",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Models\\FinanceContext.cs",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Models\\FinanceContext.cs",
+              "RelativeToolTip": "ProjectFinancePortal\\Models\\FinanceContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:08:46.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectFinancePortal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T08:05:45.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectFinancePortal\\appsettings.json",
+              "ToolTip": "C:\\Users\\pallavi\\source\\repos\\ProjectFinancePortal\\ProjectFinancePortal\\appsettings.json",
+              "RelativeToolTip": "ProjectFinancePortal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T07:21:47.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
