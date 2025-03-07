@@ -18,7 +18,8 @@ A **Personal Finance Manager System** built with **ASP.NET Core MVC** and **SQL 
 
 ## **📺 Demo**
 ### **🎥 Watch the Demo Video**
-[![Watch the Demo][(https://github.com/Pallavi-star2002/a-personal-finance-manager-system/blob/main/Screenshot%202025-03-07%20142011.png)](https://github.com/Pallavi-star2002/a-personal-finance-manager-system/blob/main/PROJECT%201.mp4]  
+[![Watch the Demo](https://github.com/Pallavi-star2002/a-personal-finance-manager-system/blob/main/Screenshot%202025-03-07%20142011.png)](https://www.youtube.com/watch?v=1A2vkvFTUtw)
+
 *Click the image above to watch the demo on YouTube!*
 
 ---
